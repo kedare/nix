@@ -17,7 +17,6 @@
     gnupg
     gnutar
     jq
-    neofetch
     parted
     pwgen
     ripgrep
@@ -77,8 +76,8 @@
     # Basic development tools
     git
     go-task
-    lunarvim
     vim
+    neovim
   ];
 
   programs.neovim = {
